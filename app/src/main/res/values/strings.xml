@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimeTiles</string>
+    <string name="widget_description">Shows a live countdown to your chosen event</string>
+    <string name="notification_channel_name">Countdown alerts</string>
+    <string name="notification_channel_description">Notifies you when a countdown reaches zero</string>
+    <string name="notification_arrived_title">%1$s %2$s is here!</string>
+    <string name="notification_arrived_text">Your countdown has reached zero.</string>
+</resources>
